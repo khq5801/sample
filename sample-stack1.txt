@@ -1,0 +1,480 @@
+>ath-miR8183 MIMAT0032782 Arabidopsis thaliana miR8183
+Length=21
+
+ Score = 20.2 bits (21),  Expect = 4.4
+ Identities = 12/13 (92%), Gaps = 0/13 (0%)
+ Strand=Plus/Minus
+
+Query  4   TTCCGTCATCTAA  16
+           |||||||| ||||
+Sbjct  14  TTCCGTCAACTAA  2
+
+
+>mtr-miR5556-3p MIMAT0022212 Medicago truncatula miR5556-3p
+Length=21
+
+ Score = 20.2 bits (21),  Expect = 4.4
+ Identities = 12/13 (92%), Gaps = 0/13 (0%)
+ Strand=Plus/Minus
+
+Query  1   TTTTTCCGTCATC  13
+           || ||||||||||
+Sbjct  14  TTCTTCCGTCATC  2
+
+
+>bdi-miR827-5p MIMAT0027075 Brachypodium distachyon miR827-5p
+Length=22
+
+ Score = 19.3 bits (20),  Expect = 4.4
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Plus
+
+Query  8   GTCATCTAAC  17
+           ||||||||||
+Sbjct  12  GTCATCTAAC  21
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 2887746
+
+
+Query= 000002
+
+Length=16
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+oni-miR-10658 MIMAT0043152 Oreochromis niloticus miR-10658            24.7    0.095
+sma-miR-8428-3p MIMAT0033561 Schistosoma mansoni miR-8428-3p          22.0    1.2  
+prd-miR-7579-5p MIMAT0030630 Panagrellus redivivus miR-7579-5p        21.1    1.2  
+hsa-miR-4737 MIMAT0019863 Homo sapiens miR-4737                       20.2    4.1  
+pma-miR-4567 MIMAT0019599 Petromyzon marinus miR-4567                 20.2    4.1  
+nle-miR-628 MIMAT0049424 Nomascus leucogenys miR-628                  19.3    4.1  
+ocu-miR-628-5p MIMAT0048539 Oryctolagus cuniculus miR-628-5p          19.3    4.1  
+dno-miR-628-5p MIMAT0047984 Dasypus novemcinctus miR-628-5p           19.3    4.1  
+aae-miR-11904 MIMAT0046003 Aedes aegypti miR-11904                    19.3    4.1  
+eel-miR-11062-3p MIMAT0043689 Electrophorus electricus miR-11062-3p   19.3    4.1  
+pal-miR-628-5p MIMAT0040242 Pteropus alecto miR-628-5p                19.3    4.1  
+cja-miR-628 MIMAT0039386 Callithrix jacchus miR-628                   19.3    4.1  
+tch-miR-628-5p MIMAT0036621 Tupaia chinensis miR-628-5p               19.3    4.1  
+chi-miR-628-5p MIMAT0036281 Capra hircus miR-628-5p                   19.3    4.1  
+efu-miR-628 MIMAT0035139 Eptesicus fuscus miR-628                     19.3    4.1  
+gga-miR-6631-5p MIMAT0025727 Gallus gallus miR-6631-5p                19.3    4.1  
+hme-miR-6302-3p MIMAT0025007 Heliconius melpomene miR-6302-3p         19.3    4.1  
+ggo-miR-628 MIMAT0024185 Gorilla gorilla miR-628                      19.3    4.1  
+cgr-miR-628 MIMAT0023989 Cricetulus griseus miR-628                   19.3    4.1  
+cgr-miR-1949 MIMAT0023828 Cricetulus griseus miR-1949                 19.3    4.1  
+rno-miR-1949 MIMAT0017852 Rattus norvegicus miR-1949                  19.3    4.1  
+ppy-miR-628-5p MIMAT0016067 Pongo pygmaeus miR-628-5p                 19.3    4.1  
+ssc-miR-628-5p MIMAT0013953 Sus scrofa miR-628-5p                     19.3    4.1  
+eca-miR-628a MIMAT0012903 Equus caballus miR-628a                     19.3    4.1  
+rno-miR-628 MIMAT0012836 Rattus norvegicus miR-628                    19.3    4.1  
+cfa-miR-628 MIMAT0009921 Canis familiaris miR-628                     19.3    4.1  
+mmu-miR-1949 MIMAT0009416 Mus musculus miR-1949                       19.3    4.1  
+bta-miR-628 MIMAT0009356 Bos taurus miR-628                           19.3    4.1  
+mml-miR-628-5p MIMAT0006474 Macaca mulatta miR-628-5p                 19.3    4.1  
+mmu-miR-680 MIMAT0003457 Mus musculus miR-680                         19.3    4.1  
+hsa-miR-628-5p MIMAT0004809 Homo sapiens miR-628-5p                   19.3    4.1  
+osa-miR419 MIMAT0001335 Oryza sativa miR419                           19.3    4.1  
+
+
+>oni-miR-10658 MIMAT0043152 Oreochromis niloticus miR-10658
+Length=22
+
+ Score = 24.7 bits (26),  Expect = 0.095
+ Identities = 13/13 (100%), Gaps = 0/13 (0%)
+ Strand=Plus/Minus
+
+Query  4   TGTCAGCATTCTC  16
+           |||||||||||||
+Sbjct  15  TGTCAGCATTCTC  3
+
+
+>sma-miR-8428-3p MIMAT0033561 Schistosoma mansoni miR-8428-3p
+Length=19
+
+ Score = 22.0 bits (23),  Expect = 1.2
+ Identities = 13/14 (93%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  1   TCATGTCAGCATTC  14
+           ||||||||| ||||
+Sbjct  3   TCATGTCAGTATTC  16
+
+
+>prd-miR-7579-5p MIMAT0030630 Panagrellus redivivus miR-7579-5p
+Length=22
+
+ Score = 21.1 bits (22),  Expect = 1.2
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  6   TCAGCATTCTC  16
+           |||||||||||
+Sbjct  9   TCAGCATTCTC  19
+
+
+>hsa-miR-4737 MIMAT0019863 Homo sapiens miR-4737
+Length=20
+
+ Score = 20.2 bits (21),  Expect = 4.1
+ Identities = 12/13 (92%), Gaps = 0/13 (0%)
+ Strand=Plus/Minus
+
+Query  4   TGTCAGCATTCTC  16
+           ||||||||| |||
+Sbjct  17  TGTCAGCATCCTC  5
+
+
+>pma-miR-4567 MIMAT0019599 Petromyzon marinus miR-4567
+Length=23
+
+ Score = 20.2 bits (21),  Expect = 4.1
+ Identities = 12/13 (92%), Gaps = 0/13 (0%)
+ Strand=Plus/Minus
+
+Query  1   TCATGTCAGCATT  13
+           ||||| |||||||
+Sbjct  14  TCATGACAGCATT  2
+
+
+>nle-miR-628 MIMAT0049424 Nomascus leucogenys miR-628
+Length=22
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  10  ATGTCAGCAT  1
+
+
+>ocu-miR-628-5p MIMAT0048539 Oryctolagus cuniculus miR-628-5p
+Length=23
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  10  ATGTCAGCAT  1
+
+
+>dno-miR-628-5p MIMAT0047984 Dasypus novemcinctus miR-628-5p
+Length=22
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  10  ATGTCAGCAT  1
+
+
+>aae-miR-11904 MIMAT0046003 Aedes aegypti miR-11904
+Length=22
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  6   TCAGCATTCT  15
+           ||||||||||
+Sbjct  16  TCAGCATTCT  7
+
+
+>eel-miR-11062-3p MIMAT0043689 Electrophorus electricus miR-11062-3p
+Length=22
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Plus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  5   ATGTCAGCAT  14
+
+
+>pal-miR-628-5p MIMAT0040242 Pteropus alecto miR-628-5p
+Length=22
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  10  ATGTCAGCAT  1
+
+
+>cja-miR-628 MIMAT0039386 Callithrix jacchus miR-628
+Length=22
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  10  ATGTCAGCAT  1
+
+
+>tch-miR-628-5p MIMAT0036621 Tupaia chinensis miR-628-5p
+Length=22
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  10  ATGTCAGCAT  1
+
+
+>chi-miR-628-5p MIMAT0036281 Capra hircus miR-628-5p
+Length=23
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  10  ATGTCAGCAT  1
+
+
+>efu-miR-628 MIMAT0035139 Eptesicus fuscus miR-628
+Length=24
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  10  ATGTCAGCAT  1
+
+
+>gga-miR-6631-5p MIMAT0025727 Gallus gallus miR-6631-5p
+Length=22
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  7   CAGCATTCTC  16
+           ||||||||||
+Sbjct  13  CAGCATTCTC  4
+
+
+>hme-miR-6302-3p MIMAT0025007 Heliconius melpomene miR-6302-3p
+Length=22
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 15/17 (88%), Gaps = 1/17 (6%)
+ Strand=Plus/Plus
+
+Query  1   TCAT-GTCAGCATTCTC  16
+           |||| |||||| |||||
+Sbjct  6   TCATCGTCAGCCTTCTC  22
+
+
+>ggo-miR-628 MIMAT0024185 Gorilla gorilla miR-628
+Length=22
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  10  ATGTCAGCAT  1
+
+
+>cgr-miR-628 MIMAT0023989 Cricetulus griseus miR-628
+Length=22
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  10  ATGTCAGCAT  1
+
+
+>cgr-miR-1949 MIMAT0023828 Cricetulus griseus miR-1949
+Length=23
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Plus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  10  ATGTCAGCAT  19
+
+
+>rno-miR-1949 MIMAT0017852 Rattus norvegicus miR-1949
+Length=23
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Plus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  10  ATGTCAGCAT  19
+
+
+>ppy-miR-628-5p MIMAT0016067 Pongo pygmaeus miR-628-5p
+Length=22
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  10  ATGTCAGCAT  1
+
+
+>ssc-miR-628-5p MIMAT0013953 Sus scrofa miR-628-5p
+Length=22
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  10  ATGTCAGCAT  1
+
+
+>eca-miR-628a MIMAT0012903 Equus caballus miR-628a
+Length=22
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  10  ATGTCAGCAT  1
+
+
+>rno-miR-628 MIMAT0012836 Rattus norvegicus miR-628
+Length=22
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  10  ATGTCAGCAT  1
+
+
+>cfa-miR-628 MIMAT0009921 Canis familiaris miR-628
+Length=22
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  10  ATGTCAGCAT  1
+
+
+>mmu-miR-1949 MIMAT0009416 Mus musculus miR-1949
+Length=24
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Plus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  11  ATGTCAGCAT  20
+
+
+>bta-miR-628 MIMAT0009356 Bos taurus miR-628
+Length=22
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  10  ATGTCAGCAT  1
+
+
+>mml-miR-628-5p MIMAT0006474 Macaca mulatta miR-628-5p
+Length=22
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  10  ATGTCAGCAT  1
+
+
+>mmu-miR-680 MIMAT0003457 Mus musculus miR-680
+Length=21
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  2   CATGTCAGCA  11
+           ||||||||||
+Sbjct  17  CATGTCAGCA  8
+
+
+>hsa-miR-628-5p MIMAT0004809 Homo sapiens miR-628-5p
+Length=22
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  3   ATGTCAGCAT  12
+           ||||||||||
+Sbjct  10  ATGTCAGCAT  1
+
+
+>osa-miR419 MIMAT0001335 Oryza sativa miR419
+Length=21
+
+ Score = 19.3 bits (20),  Expect = 4.1
+ Identities = 10/10 (100%), Gaps = 0/10 (0%)
+ Strand=Plus/Minus
+
+Query  5   GTCAGCATTC  14
+           ||||||||||
+Sbjct  14  GTCAGCATTC  5
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 2650880
